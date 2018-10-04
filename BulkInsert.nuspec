@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Rmb.Sql.Extension.BulkInsert</id>
+    <version>0.0.4</version>
+    <title>c# SqlBulkInsert Extension</title>
+    <authors>Ram Bharlia</authors>
+    <owners>Ram Bharlia</owners>
+    <projectUrl>https://github.com/rambharlia007/BulkInsert/tree/master</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Inserts List of data into the database using sql bulk insert. Internally maps the List to datatable and column mappings. check the Project site link for example</description>
+    <releaseNotes>c# SQL_Bulk_Insert Beta</releaseNotes>
+    <copyright>Copyright 2018</copyright>
+    <tags>SQLBulkInsert BulkInsert SqlBulkInsertHelper SqlBulkInsertExtension c#</tags>
+  </metadata>
+</package>
